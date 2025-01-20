@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04581084-45A2-4260-A066-A2369EA50C52}|..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj|h:\\jornada quest\\jogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\controllers\\databaseincialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04581084-45A2-4260-A066-A2369EA50C52}|..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj|h:\\jornada quest\\jogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04581084-45A2-4260-A066-A2369EA50C52}|..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj|h:\\jornada quest\\jogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\apijogoturno.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B4BFBF-2F86-46A6-A2DF-DE64A3EDAE9C}|..\\TimerJogo\\TimerJogo\\TimerJogo.csproj|h:\\jornada quest\\jogoturno\\timerjogo\\timerjogo\\timerjogo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B4BFBF-2F86-46A6-A2DF-DE64A3EDAE9C}|..\\TimerJogo\\TimerJogo\\TimerJogo.csproj|h:\\jornada quest\\jogoturno\\timerjogo\\timerjogo\\timerjogo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\jogoturno.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\jogoturno.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\jogoturno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\jogoturno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04581084-45A2-4260-A066-A2369EA50C52}|..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj|h:\\jornada quest\\jogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\controllers\\jogoturnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\controllers\\jogoturnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\enums\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\enums\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\enums\\characterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\enums\\characterclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\extentions\\enumextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\extentions\\enumextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\services\\jogoturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\services\\jogoturnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\models\\persist\\charactermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\models\\persist\\charactermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|h:\\jornada quest\\jogoturno\\jogoturno\\jogoturno\\models\\persist\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}|JogoTurno\\JogoTurno.csproj|solutionrelative:jogoturno\\models\\persist\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04581084-45A2-4260-A066-A2369EA50C52}|..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj|h:\\jornada quest\\jogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04581084-45A2-4260-A066-A2369EA50C52}|..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj|h:\\jornada quest\\jogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04581084-45A2-4260-A066-A2369EA50C52}|..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj|h:\\jornada quest\\jogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\apijogoturno\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBaseIncialController.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Controllers\\DataBaseIncialController.cs",
+              "RelativeDocumentMoniker": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Controllers\\DataBaseIncialController.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Controllers\\DataBaseIncialController.cs",
+              "RelativeToolTip": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Controllers\\DataBaseIncialController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:32:08.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Controllers\\ClientesController.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAswIcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:30:38.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiJogoTurno",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj",
+              "RelativeDocumentMoniker": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj",
+              "RelativeToolTip": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T01:26:15.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimerJogo.csproj",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\TimerJogo\\TimerJogo\\TimerJogo.csproj",
+              "RelativeDocumentMoniker": "..\\TimerJogo\\TimerJogo\\TimerJogo.csproj",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\TimerJogo\\TimerJogo\\TimerJogo.csproj",
+              "RelativeToolTip": "..\\TimerJogo\\TimerJogo\\TimerJogo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T01:25:28.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimerJogo",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\TimerJogo\\TimerJogo\\TimerJogo.csproj",
+              "RelativeDocumentMoniker": "..\\TimerJogo\\TimerJogo\\TimerJogo.csproj",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\TimerJogo\\TimerJogo\\TimerJogo.csproj",
+              "RelativeToolTip": "..\\TimerJogo\\TimerJogo\\TimerJogo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T01:25:30.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JogoTurno",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\JogoTurno.csproj",
+              "RelativeDocumentMoniker": "JogoTurno\\JogoTurno.csproj",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\JogoTurno.csproj",
+              "RelativeToolTip": "JogoTurno\\JogoTurno.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T01:25:20.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JogoTurno\\Controllers\\HomeController.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JogoTurno\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:23:57.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JogoTurnoController.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Controllers\\JogoTurnoController.cs",
+              "RelativeDocumentMoniker": "JogoTurno\\Controllers\\JogoTurnoController.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Controllers\\JogoTurnoController.cs",
+              "RelativeToolTip": "JogoTurno\\Controllers\\JogoTurnoController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:23:51.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Race.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Enums\\Race.cs",
+              "RelativeDocumentMoniker": "JogoTurno\\Enums\\Race.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Enums\\Race.cs",
+              "RelativeToolTip": "JogoTurno\\Enums\\Race.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:23:50.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CharacterClass.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Enums\\CharacterClass.cs",
+              "RelativeDocumentMoniker": "JogoTurno\\Enums\\CharacterClass.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Enums\\CharacterClass.cs",
+              "RelativeToolTip": "JogoTurno\\Enums\\CharacterClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:23:48.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnumExtentions.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Extentions\\EnumExtentions.cs",
+              "RelativeDocumentMoniker": "JogoTurno\\Extentions\\EnumExtentions.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Extentions\\EnumExtentions.cs",
+              "RelativeToolTip": "JogoTurno\\Extentions\\EnumExtentions.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:23:42.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CharacterModel.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Models\\Persist\\CharacterModel.cs",
+              "RelativeDocumentMoniker": "JogoTurno\\Models\\Persist\\CharacterModel.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Models\\Persist\\CharacterModel.cs",
+              "RelativeToolTip": "JogoTurno\\Models\\Persist\\CharacterModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:22:50.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Models\\Persist\\GameContext.cs",
+              "RelativeDocumentMoniker": "JogoTurno\\Models\\Persist\\GameContext.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Models\\Persist\\GameContext.cs",
+              "RelativeToolTip": "JogoTurno\\Models\\Persist\\GameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:22:46.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JogoTurnoService.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Services\\JogoTurnoService.cs",
+              "RelativeDocumentMoniker": "JogoTurno\\Services\\JogoTurnoService.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Services\\JogoTurnoService.cs",
+              "RelativeToolTip": "JogoTurno\\Services\\JogoTurnoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:22:33.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "JogoTurno\\appsettings.Development.json",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\appsettings.Development.json",
+              "RelativeToolTip": "JogoTurno\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T01:22:14.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JogoTurno.csproj",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\JogoTurno.csproj",
+              "RelativeDocumentMoniker": "JogoTurno\\JogoTurno.csproj",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\JogoTurno.csproj",
+              "RelativeToolTip": "JogoTurno\\JogoTurno.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T01:13:41.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Context\\DataContext.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Context\\DataContext.cs",
+              "RelativeToolTip": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:16:55.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Program.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Program.cs",
+              "RelativeToolTip": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:13:38.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\appsettings.json",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\appsettings.json",
+              "RelativeToolTip": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T01:13:31.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Startup.cs",
+              "RelativeDocumentMoniker": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Startup.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Startup.cs",
+              "RelativeToolTip": "..\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\ApiJogoTurno\\Startup.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:13:41.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Program.cs",
+              "RelativeDocumentMoniker": "JogoTurno\\Program.cs",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\Program.cs",
+              "RelativeToolTip": "JogoTurno\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:12:34.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\appsettings.json",
+              "RelativeDocumentMoniker": "JogoTurno\\appsettings.json",
+              "ToolTip": "H:\\Jornada quest\\JogoTurno\\JogoTurno\\JogoTurno\\appsettings.json",
+              "RelativeToolTip": "JogoTurno\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T01:12:22.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

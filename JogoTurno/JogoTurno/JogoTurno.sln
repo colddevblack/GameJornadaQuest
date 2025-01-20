@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoTurno", "JogoTurno\JogoTurno.csproj", "{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiJogoTurno", "..\ApiJogoTurno\ApiJogoTurno\ApiJogoTurno\ApiJogoTurno\ApiJogoTurno.csproj", "{04581084-45A2-4260-A066-A2369EA50C52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerJogo", "..\TimerJogo\TimerJogo\TimerJogo.csproj", "{D3B4BFBF-2F86-46A6-A2DF-DE64A3EDAE9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463D8C1A-6090-432E-B836-AFDD7ECEF9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04581084-45A2-4260-A066-A2369EA50C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04581084-45A2-4260-A066-A2369EA50C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04581084-45A2-4260-A066-A2369EA50C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04581084-45A2-4260-A066-A2369EA50C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B4BFBF-2F86-46A6-A2DF-DE64A3EDAE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B4BFBF-2F86-46A6-A2DF-DE64A3EDAE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B4BFBF-2F86-46A6-A2DF-DE64A3EDAE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B4BFBF-2F86-46A6-A2DF-DE64A3EDAE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
